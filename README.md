@@ -91,5 +91,7 @@ En síntesis, esta investigación evidencia la profunda influencia del contexto 
 Silvia Prevettoni
 
 GitHub: @Siguax
+
 LinkedIn: silvia-prevettoni
+
 Email: silvia.prevettoni@gmail.com
