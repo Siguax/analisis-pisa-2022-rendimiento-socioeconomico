@@ -86,7 +86,8 @@ En síntesis, esta investigación evidencia la profunda influencia del contexto 
 
 ## 👩‍💻 Autora
 
-**Silvia Prevettoni**
+Silvia Prevettoni
+
 GitHub: @Siguax
 LinkedIn: silvia-prevettoni
 Email: silvia.prevettoni@gmail.com
