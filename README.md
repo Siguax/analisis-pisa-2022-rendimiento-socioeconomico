@@ -85,7 +85,7 @@ install.packages(c("learningtowers", "dplyr", "tidyr", "ggplot2",
 En síntesis, esta investigación evidencia la profunda influencia del contexto socioeconómico en los resultados educativos, con variaciones significativas entre países. Los hallazgos subrayan la necesidad de políticas educativas que aborden las desigualdades de base y aprovechen el potencial de la tecnología como herramienta de equidad. El caso de Argentina resalta la urgencia de intervenciones focalizadas para mitigar el impacto de la desventaja socioeconómica en el desempeño académico, particularmente en matemáticas.
 
 ## ▶️ Ver el análisis completo
-👉 Hacé clic acá para ver el trabajo renderizado en PDF Trabajo-Final-del-Módulo-4.pdf
+👉 Hacé clic acá para ver el trabajo renderizado en PDF https://github.com/Siguax/analisis-pisa-2022-rendimiento-socioeconomico/blob/main/Trabajo-Final-del-M%C3%B3dulo-4.pdf
 
 ## 👩‍💻 Autora
 Silvia Prevettoni
