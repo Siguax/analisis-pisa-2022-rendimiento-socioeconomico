@@ -92,10 +92,8 @@ En síntesis, esta investigación evidencia la profunda influencia del contexto 
 Distribuido bajo la licencia **MIT**. Consultá [`LICENSE`](LICENSE) para más detalles.
 
 ## 👩‍💻 Autora
-Silvia Prevettoni
+**Silvia Prevettoni**
 
-GitHub: @Siguax
-
-LinkedIn: silvia-prevettoni
-
-Email: silvia.prevettoni@gmail.com
+- 🐙 GitHub: [@Siguax](https://github.com/Siguax)
+- 💼 LinkedIn: [silvia-prevettoni](https://www.linkedin.com/in/silvia-prevettoni)
+- 📧 Email: [silvia.prevettoni@gmail.com](mailto:silvia.prevettoni@gmail.com)
