@@ -69,6 +69,7 @@ install.packages(c("learningtowers", "dplyr", "tidyr", "ggplot2",
 ├── outputs/            # Gráficos y resultados generados
 ├── Trabajo_Practico_Final.pdf   # Informe final en PDF
 └── README.md
+└── LICENSE                            # Licencia MIT
 ```
 
 ## ▶️ Cómo visualizar el proyecto
@@ -86,6 +87,9 @@ En síntesis, esta investigación evidencia la profunda influencia del contexto 
 
 ## ▶️ Ver el análisis completo
 👉 [Hacé clic acá para ver el trabajo renderizado en PDF](https://github.com/Siguax/analisis-pisa-2022-rendimiento-socioeconomico/blob/main/Trabajo-Final-del-M%C3%B3dulo-4.pdf)
+
+## 📄 Licencia
+Distribuido bajo la licencia **MIT**. Consultá [`LICENSE`](LICENSE) para más detalles.
 
 ## 👩‍💻 Autora
 Silvia Prevettoni
